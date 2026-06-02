@@ -217,7 +217,7 @@ A software solution for water supply billing and record management, reducing man
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Goals
 
 ```text
 □ Strengthen DSA & Problem Solving
