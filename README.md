@@ -36,10 +36,10 @@ currently_learning:
 
 ### 🚀 What I Do
 
-- 💻 Build real-world software projects  
-- 🤖 Explore AI/ML concepts and intelligent systems  
-- ⚙️ Work on IoT-based solutions using ESP32 & Arduino  
-- 🌱 Continuously learning modern software technologies  
+- 💻 Build real-world software projects
+- 🤖 Explore AI/ML concepts and intelligent systems
+- ⚙️ Work on IoT-based solutions using ESP32 & Arduino
+- 🌱 Continuously learning modern software technologies
 - 🎯 Preparing for internships & industry-level development
 
 ---
@@ -49,13 +49,19 @@ currently_learning:
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql" alt="Languages: Python, Java, HTML, CSS, MySQL" />
 </p>
 
 ### Frameworks & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flask,git,github,vscode,docker,arduino" />
+<img src="https://skillicons.dev/icons?i=flask,git,github,vscode,docker" alt="Tools: Flask, Git, GitHub, VS Code, Docker" />
+</p>
+
+<!-- Arduino not supported by skillicons.dev — using badge instead -->
+<p align="left">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+<img src="https://img.shields.io/badge/IBM%20Watson-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watson" />
 </p>
 
 ---
@@ -72,44 +78,44 @@ currently_learning:
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-## 🛡️ QS Shield
+<h3>🛡️ QS Shield</h3>
 
 **Smart Safety & Monitoring System**
 
-**Tech Used:**  
+**Tech Used:**
 `ESP32` `Flask` `Python` `Arduino` `MySQL`
 
 An intelligent IoT-based system integrating motion sensing, backend automation, and power-efficient monitoring to improve reliability, control, and smart safety management.
 
-### Highlights
-✔ Motion Detection  
-✔ Smart Monitoring  
-✔ Backend Integration  
+**Highlights**<br>
+✔ Motion Detection<br>
+✔ Smart Monitoring<br>
+✔ Backend Integration<br>
 ✔ IoT Automation
 
 </td>
 
 <td width="50%">
 
-## 🩺 Student Wellness Toolkit
+<h3>🩺 Student Wellness Toolkit</h3>
 
 **Student Productivity & Wellness Platform**
 
-**Tech Used:**  
+**Tech Used:**
 `Flask` `Python` `HTML` `CSS` `MySQL`
 
 A student-focused platform designed to improve productivity, wellness, and accessibility through practical support tools and enhanced user experience.
 
-### Highlights
-✔ Productivity Features  
-✔ Student-Friendly UI  
-✔ Database Integration  
+**Highlights**<br>
+✔ Productivity Features<br>
+✔ Student-Friendly UI<br>
+✔ Database Integration<br>
 ✔ Wellness Support
 
 </td>
@@ -118,25 +124,25 @@ A student-focused platform designed to improve productivity, wellness, and acces
 <tr>
 <td width="50%">
 
-## 💧 Smart Water Supply Billing System
+<h3>💧 Smart Water Supply Billing System</h3>
 
 **Water Supply Management Solution**
 
-**Tech Used:**  
+**Tech Used:**
 `Java` `Java Swing`
 
 A software solution for water supply billing and record management, reducing manual work and improving operational efficiency.
 
-### Highlights
-✔ Billing Automation  
-✔ Record Management  
+**Highlights**<br>
+✔ Billing Automation<br>
+✔ Record Management<br>
 ✔ User-Friendly Interface
 
 </td>
 
 <td width="50%">
 
-## 🚀 Currently Building
+<h3>🚀 Currently Building</h3>
 
 ```txt
 [ Loading Future Projects... ]
@@ -179,9 +185,9 @@ A software solution for water supply billing and record management, reducing man
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shusilsingh-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shusilsingh-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shusil's GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shusilsingh-dev&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shusilsingh-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -191,7 +197,7 @@ A software solution for water supply billing and record management, reducing man
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shusilsingh-dev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img src="https://streak-stats.demolab.com?user=shusilsingh-dev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -201,7 +207,7 @@ A software solution for water supply billing and record management, reducing man
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shusilsingh-dev&theme=github-dark&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shusilsingh-dev&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Contribution Graph" />
 
 </div>
 
@@ -209,9 +215,42 @@ A software solution for water supply billing and record management, reducing man
 
 ## 🐍 Contribution Snake
 
+> ⚠️ **Setup required:** Add the workflow below to generate the snake animation.
+> Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: shusilsingh-dev
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/shusilsingh-dev/shusilsingh-dev/output/github-contribution-grid-snake-dark.svg)
+<!-- Once the workflow runs, uncomment the line below -->
+<!-- ![Snake animation](https://raw.githubusercontent.com/shusilsingh-dev/shusilsingh-dev/output/github-contribution-grid-snake-dark.svg) -->
 
 </div>
 
@@ -235,15 +274,15 @@ A software solution for water supply billing and record management, reducing man
 <div align="center">
 
 <a href="https://linkedin.com/in/shusil-singh-238a1b305">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:shusilsingh511@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/shusilsingh-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -254,7 +293,7 @@ A software solution for water supply billing and record management, reducing man
 
 ### 💡 Engineering intelligent solutions through code, AI, and curiosity.
 
-![](https://komarev.com/ghpvc/?username=shusilsingh-dev&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=shusilsingh-dev&style=for-the-badge&color=blue)
 
 ⭐ **Always learning. Always building.**
 
