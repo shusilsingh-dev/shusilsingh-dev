@@ -1,102 +1,152 @@
 <div align="center">
 
-# Shusil Singh K
+# Hi there 👋 I'm Shusil Singh K
 
-### Aspiring Software Engineer
+### Software Engineering & AIML Student
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=6E7681&center=true&vCenter=true&width=650&lines=B.E+CSE+(AIML)+%40+M.+Kumarasamy+College+of+Engineering;Building+smart+systems+with+Python+%26+Flask;IoT+%7C+Web+Dev+%7C+Problem+Solving;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
-
-📍 Namakkal, Tamilnadu &nbsp;|&nbsp; 📞 +91 9566835697 &nbsp;|&nbsp; 📧 shusilsingh511@gmail.com
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/shusil-singh-238a1b305)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/shusilsingh-dev)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:shusilsingh511@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Engineering+intelligent+solutions+through+code,+AI,+and+curiosity.;Building+real-world+projects+with+Python,+Flask+%26+IoT.;Learning+DevOps,+Docker+%26+Software+Engineering.;Open+to+internships,+collaborations+%26+growth." alt="Typing SVG" />
 
 </div>
 
 ---
 
-## `$ whoami`
+## 👨‍💻 About Me
 
 ```yaml
-name       : "Shusil Singh K"
-role       : "Aspiring Software Engineer"
-degree     : "B.E CSE (AIML) — 2024 to 2028"
-college    : "M. Kumarasamy College of Engineering"
-cgpa       : "7.6 / 10"
-location   : "Namakkal, Tamilnadu, India"
-interests  : ["IoT Systems", "Web Development", "Problem Solving", "Automation"]
-status     : "Open to internships & collaborations"
+name: Shusil Singh K
+role: Software Engineering & AIML Student
+college: M. Kumarasamy College of Engineering
+degree: B.E CSE (AIML)
+duration: 2024 - 2028
+location: Tamil Nadu, India
+
+focus_areas:
+  - Artificial Intelligence
+  - Software Engineering
+  - IoT Systems
+  - Backend Development
+  - Problem Solving
+
+currently_learning:
+  - Git & GitHub Advanced Workflows
+  - Docker & Containers
+  - DevOps Fundamentals
+  - AIML Concepts
 ```
 
-> *"Skilled in Python, Flask, Git & GitHub — with hands-on experience in software and IoT-based solutions."*
+### 🚀 What I Do
+
+- 💻 Build real-world software projects  
+- 🤖 Explore AI/ML concepts and intelligent systems  
+- ⚙️ Work on IoT-based solutions using ESP32 & Arduino  
+- 🌱 Continuously learning modern software technologies  
+- 🎯 Preparing for internships & industry-level development
 
 ---
 
-## `$ ls skills/`
+## 🛠️ Tech Stack
 
-### 🔤 Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3670A0)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+### Languages
 
-### 🧰 Frameworks & Tools
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05033)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
-![IBM Watson](https://img.shields.io/badge/IBM%20Watson-0d1117?style=flat-square&logo=ibm&logoColor=006699)
-![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00979D)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=0078D4)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql" />
+</p>
+
+### Frameworks & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flask,git,github,vscode,docker,arduino" />
+</p>
 
 ---
 
-## `$ git log --oneline --projects`
+## 🌱 Currently Learning
+
+```text
+┣━━ Git & GitHub Advanced
+┣━━ Docker & Containers
+┣━━ DevOps Fundamentals
+┣━━ AI / ML Foundations
+┗━━ Backend Engineering
+```
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛡️ QS Shield
-**ESP32 + Flask | Arduino, MySQL, Python, Git**
+## 🛡️ QS Shield
 
-An ESP32-based smart safety system integrating **motion sensing**, **power management**, and **backend automation** to improve monitoring, reliability, and system control.
+**Smart Safety & Monitoring System**
 
-`ESP32` `Flask` `Arduino` `MySQL` `Python` `GitHub`
+**Tech Used:**  
+`ESP32` `Flask` `Python` `Arduino` `MySQL`
+
+An intelligent IoT-based system integrating motion sensing, backend automation, and power-efficient monitoring to improve reliability, control, and smart safety management.
+
+### Highlights
+✔ Motion Detection  
+✔ Smart Monitoring  
+✔ Backend Integration  
+✔ IoT Automation
 
 </td>
+
 <td width="50%">
 
-### 🩺 Student Wellness Toolkit
-**Flask (Python), HTML5, CSS3, MySQL**
+## 🩺 Student Wellness Toolkit
 
-A student-focused wellness platform with **productivity tools** and **support features**, improving access to well-being resources and enhancing user experience.
+**Student Productivity & Wellness Platform**
 
-`Flask` `Python` `HTML5` `CSS3` `MySQL`
+**Tech Used:**  
+`Flask` `Python` `HTML` `CSS` `MySQL`
+
+A student-focused platform designed to improve productivity, wellness, and accessibility through practical support tools and enhanced user experience.
+
+### Highlights
+✔ Productivity Features  
+✔ Student-Friendly UI  
+✔ Database Integration  
+✔ Wellness Support
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 💧 Smart Water Supply Billing System
-**Java, Java Swing**
+## 💧 Smart Water Supply Billing System
 
-A Java Swing-based billing system for **water supply management**, implementing billing and record-handling to streamline manual processes and improve usability.
+**Water Supply Management Solution**
 
+**Tech Used:**  
 `Java` `Java Swing`
 
+A software solution for water supply billing and record management, reducing manual work and improving operational efficiency.
+
+### Highlights
+✔ Billing Automation  
+✔ Record Management  
+✔ User-Friendly Interface
+
 </td>
+
 <td width="50%">
 
-### 🚀 More Coming Soon...
-Currently working on new projects involving **AIML**, **IoT**, and **web solutions**.
+## 🚀 Currently Building
 
-*Watch this space!*
+```txt
+[ Loading Future Projects... ]
+██████████░░░░░░ 65%
 
-⭐ Star my repos if you find them useful
+• AI/ML Based Systems
+• IoT Smart Solutions
+• Full Stack Applications
+• DevOps Learning Projects
+```
 
 </td>
 </tr>
@@ -104,64 +154,108 @@ Currently working on new projects involving **AIML**, **IoT**, and **web solutio
 
 ---
 
-## `$ cat education.log`
+## 🏆 Certifications & Learning Journey
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🎓  B.E CSE (AIML)                            2024 – 2028      │
-│      M. Kumarasamy College of Engineering                        │
-│      CGPA : 7.6 / 10                                            │
-├─────────────────────────────────────────────────────────────────┤
-│  📘  Higher Secondary School (Class XII)        2022 – 2024      │
-│      Surabi Matric Higher Secondary School                       │
-│      Percentage : 85.2%                                          │
-└─────────────────────────────────────────────────────────────────┘
+```text
+✔ Git & GitHub
+✔ Docker Fundamentals
+✔ Linux Basics
+✔ IBM SkillsBuild
+✔ DevOps Learning
+✔ AI/ML Foundations
 ```
 
 ---
 
-## `$ cat stats.log`
+## 📈 Growth Mindset
 
-<div align="center">
+> *"Consistency beats talent when talent doesn't stay consistent."*
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=shusilsingh-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6E7681&icon_color=6E7681&text_color=8b949e"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shusilsingh-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6E7681&text_color=8b949e"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shusilsingh-dev&theme=dark&hide_border=true&background=0d1117&ring=6E7681&fire=6E7681&currStreakLabel=6E7681&sideLabels=6E7681&dates=8b949e&sideNums=8b949e&currStreakNum=8b949e)
-
-</div>
+> Building skills, solving problems, and learning every day.
 
 ---
 
-## `$ ping connect`
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [linkedin.com/in/shusil-singh-238a1b305](https://linkedin.com/in/shusil-singh-238a1b305) |
-| 🐙 GitHub | [github.com/shusilsingh-dev](https://github.com/shusilsingh-dev) |
-| 📧 Email | [shusilsingh511@gmail.com](mailto:shusilsingh511@gmail.com) |
-| 📞 Phone | +91 9566835697 |
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shusilsingh-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shusilsingh-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
 ---
 
+## 🔥 Contribution Streak
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   Learning every day. Building with purpose.             ║
-║   Open to internships, projects & collaborations.        ║
-╚══════════════════════════════════════════════════════════╝
+<img src="https://streak-stats.demolab.com?user=shusilsingh-dev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shusilsingh-dev&theme=github-dark&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/shusilsingh-dev/shusilsingh-dev/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+```text
+□ Strengthen DSA & Problem Solving
+□ Build More Real-World Projects
+□ Learn Docker & DevOps Properly
+□ Explore AI/ML in Depth
+□ Gain Internship Experience
+□ Contribute to Open Source
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=shusilsingh-dev&style=flat-square&color=6E7681&label=Profile+Views)
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shusil-singh-238a1b305">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:shusilsingh511@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://github.com/shusilsingh-dev">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *Engineering intelligent solutions through code, AI, and curiosity.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=shusilsingh-dev&style=for-the-badge&color=58A6FF)
+
+⭐ *Always learning. Always building.*
 
 </div>
