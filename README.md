@@ -235,15 +235,15 @@ A software solution for water supply billing and record management, reducing man
 <div align="center">
 
 <a href="https://linkedin.com/in/shusil-singh-238a1b305">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:shusilsingh511@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/shusilsingh-dev">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -252,10 +252,10 @@ A software solution for water supply billing and record management, reducing man
 
 <div align="center">
 
-### 💡 *Engineering intelligent solutions through code, AI, and curiosity.*
+### 💡 Engineering intelligent solutions through code, AI, and curiosity.
 
-![Profile Views](https://komarev.com/ghpvc/?username=shusilsingh-dev&style=for-the-badge&color=58A6FF)
+![](https://komarev.com/ghpvc/?username=shusilsingh-dev&style=for-the-badge&color=blue)
 
-⭐ *Always learning. Always building.*
+⭐ **Always learning. Always building.**
 
 </div>
