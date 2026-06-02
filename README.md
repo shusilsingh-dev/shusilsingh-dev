@@ -1,9 +1,7 @@
-# Hi there 👋 I'm Shusil Singh K
-
-### Software Engineering & AIML Student
-
+<div align="center">
+Hi there 👋 I'm Shusil Singh K
+Software Engineering & AIML Student
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Engineering+intelligent+solutions+through+code,+AI,+and+curiosity.;Building+real-world+projects+with+Python,+Flask+%26+IoT.;Learning+DevOps,+Docker+%26+Software+Engineering.;Open+to+internships,+collaborations+%26+growth." alt="Typing SVG" />
-
 </div>
 
 ---
