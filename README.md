@@ -1,3 +1,4 @@
+````md
 <div align="center">
 
 # Hi there 👋 I'm Shusil Singh K
@@ -32,15 +33,15 @@ currently_learning:
   - Docker & Containers
   - DevOps Fundamentals
   - AIML Concepts
-```
+````
 
 ### 🚀 What I Do
 
-- 💻 Build real-world software projects
-- 🤖 Explore AI/ML concepts and intelligent systems
-- ⚙️ Work on IoT-based solutions using ESP32 & Arduino
-- 🌱 Continuously learning modern software technologies
-- 🎯 Preparing for internships & industry-level development
+* 💻 Build real-world software projects
+* 🤖 Explore AI/ML concepts and intelligent systems
+* ⚙️ Work on IoT-based solutions using ESP32 & Arduino
+* 🌱 Continuously learning modern software technologies
+* 🎯 Preparing for internships & industry-level development
 
 ---
 
@@ -49,16 +50,15 @@ currently_learning:
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql" alt="Languages: Python, Java, HTML, CSS, MySQL" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql" alt="Languages" />
 </p>
 
 ### Frameworks & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flask,git,github,vscode,docker" alt="Tools: Flask, Git, GitHub, VS Code, Docker" />
+<img src="https://skillicons.dev/icons?i=flask,git,github,vscode,docker" alt="Frameworks and Tools" />
 </p>
 
-<!-- Arduino not supported by skillicons.dev — using badge instead -->
 <p align="left">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 <img src="https://img.shields.io/badge/IBM%20Watson-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watson" />
@@ -78,7 +78,7 @@ currently_learning:
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -91,12 +91,12 @@ currently_learning:
 **Tech Used:**
 `ESP32` `Flask` `Python` `Arduino` `MySQL`
 
-An intelligent IoT-based system integrating motion sensing, backend automation, and power-efficient monitoring to improve reliability, control, and smart safety management.
+An intelligent IoT-based system integrating motion sensing, backend automation, and smart monitoring.
 
-**Highlights**<br>
-✔ Motion Detection<br>
-✔ Smart Monitoring<br>
-✔ Backend Integration<br>
+**Highlights**
+✔ Motion Detection
+✔ Smart Monitoring
+✔ Backend Integration
 ✔ IoT Automation
 
 </td>
@@ -110,12 +110,12 @@ An intelligent IoT-based system integrating motion sensing, backend automation, 
 **Tech Used:**
 `Flask` `Python` `HTML` `CSS` `MySQL`
 
-A student-focused platform designed to improve productivity, wellness, and accessibility through practical support tools and enhanced user experience.
+A student-focused platform improving productivity and wellness with practical tools.
 
-**Highlights**<br>
-✔ Productivity Features<br>
-✔ Student-Friendly UI<br>
-✔ Database Integration<br>
+**Highlights**
+✔ Productivity Features
+✔ Student-Friendly UI
+✔ Database Integration
 ✔ Wellness Support
 
 </td>
@@ -131,11 +131,11 @@ A student-focused platform designed to improve productivity, wellness, and acces
 **Tech Used:**
 `Java` `Java Swing`
 
-A software solution for water supply billing and record management, reducing manual work and improving operational efficiency.
+A billing and record management system for water supply operations.
 
-**Highlights**<br>
-✔ Billing Automation<br>
-✔ Record Management<br>
+**Highlights**
+✔ Billing Automation
+✔ Record Management
 ✔ User-Friendly Interface
 
 </td>
@@ -144,15 +144,12 @@ A software solution for water supply billing and record management, reducing man
 
 <h3>🚀 Currently Building</h3>
 
-```txt
-[ Loading Future Projects... ]
-██████████░░░░░░ 65%
-
-• AI/ML Based Systems
-• IoT Smart Solutions
-• Full Stack Applications
-• DevOps Learning Projects
-```
+<ul>
+<li>AI/ML Based Systems</li>
+<li>IoT Smart Solutions</li>
+<li>Full Stack Applications</li>
+<li>DevOps Learning Projects</li>
+</ul>
 
 </td>
 </tr>
@@ -160,15 +157,14 @@ A software solution for water supply billing and record management, reducing man
 
 ---
 
-## 🏆 Certifications & Learning Journey
+## 🏆 Learning Journey
 
 ```text
-✔ Git & GitHub
-✔ Docker Fundamentals
-✔ Linux Basics
-✔ IBM SkillsBuild
-✔ DevOps Learning
-✔ AI/ML Foundations
+📌 Git & GitHub
+📌 Docker (Learning)
+📌 Linux Basics (Learning)
+📌 DevOps Fundamentals (Learning)
+📌 AI/ML Foundations (Learning)
 ```
 
 ---
@@ -185,9 +181,9 @@ A software solution for water supply billing and record management, reducing man
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shusilsingh-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shusil's GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shusilsingh-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shusilsingh-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shusilsingh-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
@@ -197,60 +193,7 @@ A software solution for water supply billing and record management, reducing man
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shusilsingh-dev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak Stats" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shusilsingh-dev&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-> ⚠️ **Setup required:** Add the workflow below to generate the snake animation.
-> Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: shusilsingh-dev
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-<div align="center">
-
-<!-- Once the workflow runs, uncomment the line below -->
-<!-- ![Snake animation](https://raw.githubusercontent.com/shusilsingh-dev/shusilsingh-dev/output/github-contribution-grid-snake-dark.svg) -->
+<img src="https://streak-stats.demolab.com?user=shusilsingh-dev&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -293,8 +236,9 @@ jobs:
 
 ### 💡 Engineering intelligent solutions through code, AI, and curiosity.
 
-![Profile Views](https://komarev.com/ghpvc/?username=shusilsingh-dev&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=shusilsingh-dev\&style=for-the-badge\&color=blue)
 
 ⭐ **Always learning. Always building.**
 
 </div>
+```
